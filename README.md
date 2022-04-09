@@ -2,6 +2,8 @@
 My first project from computer graphics. 
 Done with OpenGl and C++
 
+Download the resources folder from 
+
 #Project base and some of the code:
 [JoeyDeVries](https://github.com/JoeyDeVries/) - significant amount of code - [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)  
 [spaske00](https://github.com/spaske00), teaching assistant - [Project base](https://github.com/matf-racunarska-grafika/project_base/)
