@@ -2,12 +2,12 @@
 My first project from computer graphics. 
 Done with OpenGl and C++
 
-Project base and some of the code:
+#Project base and some of the code:
 [JoeyDeVries](https://github.com/JoeyDeVries/) - significant amount of code - [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)  
 [spaske00](https://github.com/spaske00), teaching assistant - [Project base](https://github.com/matf-racunarska-grafika/project_base/)
 
 
-Implemented tehnics:
+#Implemented tehnics:
 -Phong light model:
   Directional
   Spotlight
@@ -21,15 +21,13 @@ Implemented tehnics:
 -HDR
 -Bloom
 
-############
-game options
-############
+#game option
+
 WASD - move
 L_SHIFT - moveSpeed ++
 L_CRTL - moveSpeed --
 F - flashlight On/Off
 E - eat the mushroom
-###########
 Explore the woods and find mushrooms, some of them are edible and will get you trppy, try to find them! :)
 
 # Asset credits
