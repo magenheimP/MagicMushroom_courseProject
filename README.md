@@ -2,7 +2,7 @@
 My first project from computer graphics. 
 Done with OpenGl and C++
 
-Download the resources folder from 
+Download the resources folder from https://drive.google.com/drive/folders/1H308mghwP1EFCVM17Ka739h663mTHUxA?usp=sharing
 
 #Project base and some of the code:
 [JoeyDeVries](https://github.com/JoeyDeVries/) - significant amount of code - [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)  
