@@ -1,6 +1,7 @@
 # MagicMushroom_courseProject
 My first project from computer graphics. 
 Done with OpenGl and C++
+Demo video: https://www.youtube.com/watch?v=08wvA4SLjG4
 
 Download the resources folder from https://drive.google.com/drive/folders/1H308mghwP1EFCVM17Ka739h663mTHUxA?usp=sharing
 
