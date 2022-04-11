@@ -1,7 +1,7 @@
 # MagicMushroom_courseProject
-My first project
-For computer graphics course. 
-Done with OpenGl and C++
+My first project \
+Computer graphics course 3rd year at Faculty of Mathematics module Informatics (University of Belgrade)   \
+Done with OpenGL and C++ \
 Demo video: https://www.youtube.com/watch?v=08wvA4SLjG4
 
 Download the resources folder from https://drive.google.com/drive/folders/1H308mghwP1EFCVM17Ka739h663mTHUxA?usp=sharing
@@ -11,7 +11,7 @@ Download the resources folder from https://drive.google.com/drive/folders/1H308m
 [spaske00](https://github.com/spaske00), teaching assistant - [Project base](https://github.com/matf-racunarska-grafika/project_base/)
 
 
-#Implemented tehnics:
+# Implemented tehnics:
 -Phong light model:
   Directional
   Spotlight
@@ -27,12 +27,12 @@ Download the resources folder from https://drive.google.com/drive/folders/1H308m
 
 #game option
 
-WASD - move
-L_SHIFT - moveSpeed ++
-L_CRTL - moveSpeed --
-F - flashlight On/Off
-E - eat the mushroom
-Explore the woods and find mushrooms, some of them are edible and will get you trppy, try to find them! :)
+WASD - move \
+L_SHIFT - moveSpeed++ \
+L_CRTL - moveSpeed-- \
+F - flashlight On/Off \
+E - eat the mushroom \
+Explore the woods and find mushrooms, some of them are edible and will get you trppy, try to find them! :) \
 
 # Asset credits
 tt model:
