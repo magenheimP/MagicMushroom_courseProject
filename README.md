@@ -11,7 +11,7 @@ Download the resources folder from https://drive.google.com/drive/folders/1H308m
 [spaske00](https://github.com/spaske00), teaching assistant - [Project base](https://github.com/matf-racunarska-grafika/project_base/)
 
 
-# Implemented tehnics:
+# Implemented technics:
 -Phong light model: \
   Directional \
   Spotlight \
