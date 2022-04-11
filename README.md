@@ -1,5 +1,6 @@
 # MagicMushroom_courseProject
-My first project from computer graphics. 
+My first project
+For computer graphics course. 
 Done with OpenGl and C++
 Demo video: https://www.youtube.com/watch?v=08wvA4SLjG4
 
