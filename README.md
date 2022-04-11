@@ -12,27 +12,29 @@ Download the resources folder from https://drive.google.com/drive/folders/1H308m
 
 
 # Implemented tehnics:
--Phong light model:
-  Directional
-  Spotlight
-  Ambient
--Model loading
--Blending
--Depth testing
--Face culling
--Framebuffers
--Cube maps
--HDR
--Bloom
+-Phong light model: \
+  Directional \
+  Spotlight \
+  Ambient \
+-Model loading \
+-Blending \
+-Depth testing \
+-Face culling \
+-Framebuffers \
+-Cube maps\
+-HDR\
+-Bloom\
 
-#game option
+# Game option
 
 WASD - move \
 L_SHIFT - moveSpeed++ \
 L_CRTL - moveSpeed-- \
 F - flashlight On/Off \
-E - eat the mushroom \
-Explore the woods and find mushrooms, some of them are edible and will get you trppy, try to find them! :) \
+E - eat the mushroom 
+
+# Description:
+Explore the woods and find mushrooms, some of them are edible and will get you trppy, try to find them! :)
 
 # Asset credits
 tt model:
